@@ -1,9 +1,5 @@
 # Hello!
 
-***About me:***
-
-I am a current Statistics MS student based out of Los Angeles, CA.  While my primary professional experience is in education and science communication, I am looking to transition into the field of data science and statistics.  Posted here is a selection of projects and papers highlighting some of my recent work.
-
 Brief summary of the projects posted above:
 
 * *Predicting Class Drop-Outs in Secondary School Mathematics*: This is a re-analysis of a 2008 paper predicting student outcomes in high school mathematics.  We compare the performance of LASSO logistic regression, random forest, kernel-based regularized least squares (KRLS), and vanilla logistic regression.  All analysis performed in R.
@@ -14,6 +10,6 @@ Brief summary of the projects posted above:
 
 * *BIOSTAT 257 Homeworks - Computational Linear Algebra*: Selected assignments involving optimizing the speed and memory allocation of common statistical computations such as PageRank and linear mixed effects likelihood.  All analysis performed in Julia.
 
-* *M231A Homeworks - Machine Learning and Pattern Recognition*: Selected assignmnets deriving and/or implementing common machine learning algorithms.  All analysis performed in Python.
+* *M231A Homeworks - Machine Learning and Pattern Recognition*: Selected assignmnets deriving and/or implementing common machine learning algorithms (Random Forest, XGBoost, Gaussian process regression, SVM, deep neural networks).  All analysis performed in Python.
 
 Enjoy!
